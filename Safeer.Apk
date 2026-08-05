@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="id">
-<script type="module" src="camera.js"></script>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAFEER</title>
+    <script type="module" src="camera.js"></script>
+</head>
 <title>SAFEER — Pusat Kendali Keselamatan Pengemudi</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
